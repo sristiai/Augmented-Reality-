@@ -37,4 +37,5 @@ This YOLOv11-based component detection system demonstrates the feasibility and e
 
 Authors:
 Sristi Bhadani
+
 https://github.com/DhananjayGajera/
